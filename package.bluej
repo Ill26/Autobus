@@ -1,8 +1,8 @@
 #BlueJ package file
-editor.fx.0.height=728
-editor.fx.0.width=800
-editor.fx.0.x=320
-editor.fx.0.y=55
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
 objectbench.height=164
 objectbench.width=1416
 package.divider.horizontal=0.6
@@ -35,8 +35,8 @@ target2.name=Autobus
 target2.showInterface=false
 target2.type=ClassTarget
 target2.width=120
-target2.x=140
-target2.y=100
+target2.x=250
+target2.y=200
 target3.height=90
 target3.name=Getrank
 target3.showInterface=false
