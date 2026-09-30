@@ -7,4 +7,15 @@
  */
 public class Autobus
 {
+    
+// Instanzvariablen 
+//- kennzeichen: String = "W-1234A"
+// - sitzplatze: int = 29  
+// - anhanger: boolean = false
+
+    private String kennzeichen;
+    private int sitzplatze;
+    private boolean anhanger;
+
+    
 }
